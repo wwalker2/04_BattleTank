@@ -1,2 +1,2 @@
 # 04_BattleTank
-Tank Battle Game
+Tank Battle Game (with AI and Multiplayer).
